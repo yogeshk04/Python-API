@@ -3,21 +3,3 @@ Temp - VOltage  - 20
 
 
 yogesh.nikam@siemens.com
-tusharkumar.deshpande@siemens.com
-sneh.saluja.ext@siemens.com
-shewale.maithily.ext@siemens.com
-
-
-NewMCL: Agent onboarded
-
-Cert : Agent onboarded (20Sep)
-punusraz.
-
-nfrtst21.sep19_AspType
-nfrtst21.sep19_AssetType
-nfrtst21.sep19_Asset
-
-
-Retrieving agent information failed
-Unable to find com.siemens.mindsphere.svc.agentmanagement.model.BoardingConfigurationEntity with id 6162; nested exception is javax.persistence.EntityNotFoundException: Unable to find com.siemens.mindsphere.svc.agentmanagement.model.BoardingConfigurationEntity with id 6162
-https://nfrtst21-uipluginassetmanagermclib.eu2-nfr.mindsphere.io/api/agentmanagement/v3/agents/eed7354f5ddd4431b9f39302097990e6/boarding/status
